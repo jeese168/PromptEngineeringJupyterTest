@@ -1,5 +1,9 @@
-# Qwen3 系列模型 - Colab 部署参考指南
+# PromptEngineeringJupyterTest
 
+建议配合个人面试笔记项目（interview_questions_jeese）中的大模型应用开发.md的提示词工程那一章节配合使用
+
+
+# Qwen3 系列模型 - Colab 部署参考指南
 ## 模型规格与硬件需求对照表
 
 | 模型名称 | 参数量 | 默认量化 | 模型大小 | 最低显存 | 推荐显存 | Colab GPU | 下载命令 | 适用场景 |
